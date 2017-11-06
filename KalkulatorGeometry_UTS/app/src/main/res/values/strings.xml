@@ -1,0 +1,9 @@
+
+<resources>
+    <string name="app_name">KalkulatorGeometry_UTS</string>
+    <string-array name="pilihan">
+        <item>Persegi_Panjang</item>
+        <item>Lingkaran</item>
+        <item>Segitiga Siku - Siku</item>
+    </string-array>
+</resources>
